@@ -1,0 +1,7 @@
+/frame
+/frame.exe
+/library.sqlite3*
+__pycache__/
+
+/media/*
+!/media/.gitkeep
